@@ -1,1 +1,4 @@
 run_get_contigs/smpls.csv
+define_smpls/input/p1_2520_Illumina_raw_path.csv
+define_smpls/input/smpls_list_BGI_p2.csv
+define_smpls/input/p1_1908_BGI_clean_path.csv
