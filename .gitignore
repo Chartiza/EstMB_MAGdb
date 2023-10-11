@@ -7,3 +7,9 @@ define_smpls/all_sequenced_samples.csv
 define_smpls/input/p2_197_BGI_raw_path.csv
 define_smpls/Illumina_only_samples.txt
 define_smpls/BGI_only_samples.txt
+reads_number_comparison/input/ReadsNumb_BGI.csv
+reads_number_comparison/input/ReadsNumb_BGI_p2.csv
+reads_number_comparison/input/ReadsNumb_Illumina.csv
+reads_number_comparison/results/ReadsNumb_both_sets.xlsx
+reads_number_comparison/results/BGI_duplicates.xlsx
+reads_number_comparison/results/Illumina_duplicates.xlsx
