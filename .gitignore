@@ -13,3 +13,5 @@ reads_number_comparison/input/ReadsNumb_Illumina.csv
 reads_number_comparison/results/ReadsNumb_both_sets.xlsx
 reads_number_comparison/results/BGI_duplicates.xlsx
 reads_number_comparison/results/Illumina_duplicates.xlsx
+reads_number_comparison/input/BGI_reads.csv
+reads_number_comparison/input/illumina_reads.csv
